@@ -16,7 +16,9 @@ git clone https://github.com/Mkr404-Cyber/GREEN.git
 cd GREEN 
 git pull
 python run.py
+
 #### 32 bit RUN 
+
 python run32.py
 
 ```
