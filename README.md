@@ -15,8 +15,10 @@ rm -rf GREEN
 git clone https://github.com/Mkr404-Cyber/GREEN.git
 cd GREEN 
 git pull
-python run.py```
-### 32 bit RUN 
+python run.py
+```
+# 32 bit RUN
+
 ```shell
 python run32.py
 
